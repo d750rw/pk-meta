@@ -1,1 +1,26 @@
-[{"cover":"https://d750rw.github.io/pk-20220415_mahikabday/public/img/DSC_8376_M.jpg","name":"20220415_MahikaBday","count":28,"uri":"/album/pk-20220415_mahikabday"},{"cover":"https://d750rw.github.io/pk-20220205_aarnavibday/public/img/DSC_7250_M.jpg","name":"20220205_AarnaviBday","count":51,"uri":"/album/pk-20220205_aarnavibday"},{"cover":"https://d750rw.github.io/pk-20220213_kannathathabday/public/img/DSC_7466_M.jpg","name":"20220213_KannaThathaBday","count":51,"uri":"/album/pk-20220213_kannathathabday"}]
+[
+  {
+    "cover": "https://d750rw.github.io/pk-20220415_mahikabday/public/img/DSC_8376_M.jpg",
+    "name": "20220415_MahikaBday",
+    "count": 28,
+    "uri": "/album/pk-20220415_mahikabday"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20220205_aarnavibday/public/img/DSC_7250_M.jpg",
+    "name": "20220205_AarnaviBday",
+    "count": 51,
+    "uri": "/album/pk-20220205_aarnavibday"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20220213_kannathathabday/public/img/DSC_7466_M.jpg",
+    "name": "20220213_KannaThathaBday",
+    "count": 51,
+    "uri": "/album/pk-20220213_kannathathabday"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20220227_almondfarm/public/img/DSC_7850_M.jpg",
+    "name": "20220227_AlmondFarm",
+    "count": 51,
+    "uri": "/album/pk-20220227_almondfarm"
+  }
+]
