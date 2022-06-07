@@ -70,5 +70,11 @@
     "name": "20220603_Yosemite",
     "count": 43,
     "uri": "/album/pk-20220603_yosemite"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20220606_sumethabday/public/img/DSC_9213_M.jpg",
+    "name": "20220606_SumethaBday",
+    "count": 13,
+    "uri": "/album/pk-20220606_sumethabday"
   }
 ]
