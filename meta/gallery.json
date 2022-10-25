@@ -124,5 +124,11 @@
     "name": "20220924_SaranyaBday",
     "count": 23,
     "uri": "/album/pk-20220924_saranyabday"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20221003_shrebday/public/img/DSC_0574_M.jpg",
+    "name": "20221003_ShreBday",
+    "count": 8,
+    "uri": "/album/pk-20221003_shrebday"
   }
 ]
