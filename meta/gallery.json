@@ -184,5 +184,11 @@
     "name": "20230220_cruise",
     "count": 28,
     "uri": "/album/pk-20230220_cruise"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20230225_anusatishwday/public/img/DSC_2484_M.jpg",
+    "name": "20230225_AnuSatishWday",
+    "count": 11,
+    "uri": "/album/pk-20230225_anusatishwday"
   }
 ]
