@@ -196,5 +196,11 @@
     "name": "20230304_AadyaBday",
     "count": 6,
     "uri": "/album/pk-20230304_aadyabday"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20230329_vishubday/public/img/DSC_2659_M.jpg",
+    "name": "20230329_VishuBday",
+    "count": 75,
+    "uri": "/album/pk-20230329_vishubday"
   }
 ]
