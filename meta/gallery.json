@@ -226,5 +226,11 @@
     "name": "20231216_ManoHome",
     "count": 15,
     "uri": "/album/pk-20231216_manohome"
+  },
+  {
+    "cover": "https://d750rw.github.io/pk-20230916_baddubday/public/img/DSC_3361_M.jpg",
+    "name": "20230916_BadduBday",
+    "count": 82,
+    "uri": "/album/pk-20230916_baddubday"
   }
 ]
